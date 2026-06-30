@@ -16,10 +16,6 @@ I work across the stack: designing on-chain protocols and the cryptographic prim
 
 **Data** — Python, pandas, Jupyter
 
-## How I think about this work
-
-Most systems that move money or sensitive data choose between transparency and usability — public chains expose everything, private systems require trusting a third party. The work I find most interesting sits at that boundary: using cryptography (ZK, FHE) to get verifiability without giving up confidentiality, particularly in payments, payroll, and financial infrastructure.
-
 ---
 
 📫 [GitHub](https://github.com/MarvyNwaokobia) · [Twitter/X](https://twitter.com/Marvysmind)
